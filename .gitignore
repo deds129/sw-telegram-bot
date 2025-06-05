@@ -140,3 +140,8 @@ cython_debug/
 
 .idea
 .vscode
+
+# AI agents
+.junie
+.cursor
+.cursorrules
